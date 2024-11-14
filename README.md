@@ -1,0 +1,1 @@
+<!-- Fazer uma documentação de um passo a passo de como estruturar um projeto (como montar o GitHub, como você comitar, como estruturar o projeto Django, que sites usar para fazer a documentação, por exemplo, bookstack, etc.). -->
